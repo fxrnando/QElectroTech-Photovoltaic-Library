@@ -1,0 +1,82 @@
+<titleblocktemplate name="Electrical Projects Title Box">
+    <information></information>
+    <logos/>
+    <grid cols="t50%;t25%;t25%;" rows="50;50;50;25;50;">
+        <field colspan="2" col="0" displaylabel="true" name="project" align="left" hadjust="true" row="0" valign="center">
+            <value>
+                <translation lang="en">%{projecttitle}</translation>
+                <translation lang="es">%{projecttitle}</translation>
+            </value>
+            <label>
+                <translation lang="en">Project</translation>
+                <translation lang="es">Proyecto</translation>
+            </label>
+        </field>
+        <field col="0" displaylabel="true" name="holder" align="left" hadjust="true" row="1" valign="center">
+            <value>
+                <translation lang="en">%{holder}</translation>
+            </value>
+            <label>
+                <translation lang="en">Holder</translation>
+                <translation lang="es">Titular</translation>
+            </label>
+        </field>
+        <field colspan="1" col="1" displaylabel="true" name="location" align="left" hadjust="true" row="1" valign="center">
+            <value>
+                <translation lang="en">%{localization}</translation>
+            </value>
+            <label>
+                <translation lang="en">Location</translation>
+                <translation lang="es">Emplazamiento</translation>
+            </label>
+        </field>
+        <field colspan="1" col="0" displaylabel="true" name="plano" align="left" hadjust="true" row="2" fontsize="9" valign="center">
+            <value>
+                <translation lang="es">%{title}</translation>
+            </value>
+            <label>
+                <translation lang="es">Plano</translation>
+            </label>
+        </field>
+        <field col="2" displaylabel="true" name="folio" align="left" hadjust="true" row="2" fontsize="9" valign="center">
+            <value>
+                <translation lang="es">%{folio}</translation>
+            </value>
+            <label>
+                <translation lang="es">N° Plano</translation>
+            </label>
+        </field>
+        <field col="0" displaylabel="true" name="promoter" rowspan="1" align="left" hadjust="true" row="3" fontsize="9" valign="center">
+            <value>
+                <translation lang="en">%{promoter}</translation>
+            </value>
+            <label>
+                <translation lang="es">Promotor</translation>
+            </label>
+        </field>
+        <field col="1" displaylabel="true" name="scale" align="left" hadjust="true" row="3" fontsize="9" valign="center">
+            <value>
+                <translation lang="es">%{escala}</translation>
+            </value>
+            <label>
+                <translation lang="es">Escala</translation>
+            </label>
+        </field>
+        <field col="2" displaylabel="true" name="date" align="left" hadjust="true" row="3" fontsize="9" valign="center">
+            <value>
+                <translation lang="es">%{date}</translation>
+            </value>
+            <label>
+                <translation lang="es">Fecha</translation>
+            </label>
+        </field>
+        <field colspan="1" col="1" displaylabel="true" name="autor" align="left" hadjust="true" row="4" fontsize="9" valign="center">
+            <value>
+                <translation lang="es">%{autor}</translation>
+            </value>
+            <label>
+                <translation lang="es">Ingeniero</translation>
+            </label>
+        </field>
+    </grid>
+</titleblocktemplate>
