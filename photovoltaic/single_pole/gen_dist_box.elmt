@@ -1,0 +1,21 @@
+<definition type="element" link_type="simple" hotspot_x="29" hotspot_y="26" width="60" height="60" version="0.100.0">
+    <uuid uuid="{d2f0b6df-5b5d-4b27-a657-9492fc0eaea1}"/>
+    <names>
+        <name lang="en">General Distribution Box</name>
+        <name lang="es">Tablero de Distribución AC</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="5" y="2.5" z="1" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{135677dd-8192-482b-a5ad-986528bbf41a}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect ry="0" x="-20" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" width="40" height="40" rx="0"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-20" length1="1.5" x2="20" length2="1.5"/>
+        <terminal type="Generic" x="0" y="25" name="" uuid="{3f82e148-5739-4a68-ba03-2dcd405188ee}" orientation="s"/>
+        <terminal type="Generic" x="-25" y="0" name="" uuid="{7d77ed8e-5441-4b3b-865e-57c309a68e4d}" orientation="w"/>
+        <terminal type="Generic" x="25" y="0" name="" uuid="{ea5472b7-17fa-417e-a16f-6f0040a444ed}" orientation="e"/>
+    </description>
+</definition>

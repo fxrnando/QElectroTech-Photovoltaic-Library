@@ -1,0 +1,35 @@
+<definition type="element" link_type="thumbnail" hotspot_x="15" hotspot_y="44" width="30" height="90" version="0.100.0">
+    <uuid uuid="{12eb9e5b-354a-47ab-bac0-20c2e95ae47c}"/>
+    <names>
+        <name lang="ca">Terminal neutral</name>
+        <name lang="cs">Svorka N</name>
+        <name lang="en">Terminal Neutral</name>
+        <name lang="fr">Borne Neutre</name>
+    </names>
+    <elementInformations/>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-13" y="14" z="1" rotation="270" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{4e0b3bcf-4cf3-42be-a6bd-3c56b6ab86cd}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
+            <text></text>
+        </dynamic_text>
+        <circle x="-3.5" y="16.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7"/>
+        <circle x="-3.5" y="-23.5" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="7"/>
+        <line end1="none" end2="none" y1="18" antialias="false" y2="22" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" length1="1.5" x2="-2" length2="1.5"/>
+        <line end1="none" end2="none" y1="-22" antialias="false" y2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="2" length1="1.5" x2="-2" length2="1.5"/>
+        <rect ry="0" x="-10" y="-40" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" width="20" height="80" rx="0"/>
+        <line end1="none" end2="none" y1="-22" antialias="false" y2="-18" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-2" length1="1.5" x2="2" length2="1.5"/>
+        <line end1="none" end2="none" y1="18" antialias="false" y2="22" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-2" length1="1.5" x2="2" length2="1.5"/>
+        <rect ry="0" x="-8" y="-12" antialias="false" style="line-style:normal;line-weight:thin;filling:blue;color:black" width="16" height="24" rx="0"/>
+        <line end1="none" end2="none" y1="-23" antialias="false" y2="-17" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="17" antialias="false" y2="23" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-20" antialias="false" y2="-20" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-3" length1="1.5" x2="3" length2="1.5"/>
+        <line end1="none" end2="none" y1="20" antialias="false" y2="20" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-3" length1="1.5" x2="3" length2="1.5"/>
+        <line end1="none" end2="none" y1="-2" antialias="false" y2="2" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-2" length1="1.5" x2="2" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-7" y="-40" z="15" rotation="0" font="Liberation Sans,4,-1,5,75,0,0,0,0,0,Bold" text_width="-1" uuid="{0a7ec1aa-56f5-4d4e-85fa-f35ad1211760}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
+            <text>_</text>
+            <color>#ff00ff</color>
+        </dynamic_text>
+        <terminal type="Generic" x="0" y="-40" name="" uuid="{02920d70-d699-46db-be70-763b885f5813}" orientation="n"/>
+        <terminal type="Generic" x="0" y="40" name="" uuid="{5329ea5c-3333-4cb1-a7ef-d68d73c543d1}" orientation="s"/>
+    </description>
+</definition>

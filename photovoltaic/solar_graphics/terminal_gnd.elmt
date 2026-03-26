@@ -1,0 +1,45 @@
+<definition type="element" link_type="thumbnail" hotspot_x="15" hotspot_y="44" width="30" height="90" version="0.100.0">
+    <uuid uuid="{34fcca6c-4e2f-48f4-bc29-3ffdaf07aa07}"/>
+    <names>
+        <name lang="ca">Terminal (connexió a terra)</name>
+        <name lang="cs">Svorka uzemnění</name>
+        <name lang="de">Klemme (Erdung)</name>
+        <name lang="en">Terminal (Grounding)</name>
+        <name lang="es">Clema (Aterrizada)</name>
+        <name lang="fr">Borne (terre)</name>
+        <name lang="pl">Zacisk uziemiający</name>
+    </names>
+    <elementInformations/>
+    <informations>edited with "QET_ElementScaler"</informations>
+    <description>
+        <circle x="-2.5" y="27.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <rect ry="0" x="-8" y="-12" antialias="false" style="line-style:normal;line-weight:thin;filling:yellow;color:black" width="16" height="24" rx="0"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-13" y="14" z="2" rotation="270" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{9d2ed0c4-2abf-4590-b4c6-50cd202a949d}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
+            <text></text>
+        </dynamic_text>
+        <line end1="none" end2="none" y1="29" antialias="false" y2="31" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-1" length1="1.5" x2="1" length2="1.5"/>
+        <line end1="none" end2="none" y1="31" antialias="false" y2="29" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-1" length1="1.5" x2="1" length2="1.5"/>
+        <rect ry="0" x="-10" y="-40" antialias="false" style="line-style:normal;line-weight:hight;filling:none;color:black" width="20" height="80" rx="0"/>
+        <line end1="none" end2="none" y1="28" antialias="false" y2="32" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="25" antialias="false" y2="25" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-1" length1="1.5" x2="1" length2="1.5"/>
+        <line end1="none" end2="none" y1="30" antialias="false" y2="30" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-2" length1="1.5" x2="2" length2="1.5"/>
+        <line end1="none" end2="none" y1="23" antialias="false" y2="23" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-3" length1="1.5" x2="3" length2="1.5"/>
+        <line end1="none" end2="none" y1="21" antialias="false" y2="21" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-5" length1="1.5" x2="5" length2="1.5"/>
+        <line end1="none" end2="none" y1="21" antialias="false" y2="16" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-11" antialias="false" y2="-4" style="line-style:normal;line-weight:normal;filling:none;color:green" x1="0" length1="1.5" x2="7" length2="1.5"/>
+        <line end1="none" end2="none" y1="-11" antialias="false" y2="3" style="line-style:normal;line-weight:normal;filling:none;color:green" x1="-7" length1="1.5" x2="7" length2="1.5"/>
+        <line end1="none" end2="none" y1="-3" antialias="false" y2="11" style="line-style:normal;line-weight:normal;filling:none;color:green" x1="-7" length1="1.5" x2="7" length2="1.5"/>
+        <line end1="none" end2="none" y1="4" antialias="false" y2="11" style="line-style:normal;line-weight:normal;filling:none;color:green" x1="-7" length1="1.5" x2="0" length2="1.5"/>
+        <circle x="-2.5" y="-33.5" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:black" diameter="5"/>
+        <line end1="none" end2="none" y1="-32" antialias="false" y2="-30" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-1" length1="1.5" x2="1" length2="1.5"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="-7" y="-38" z="18" rotation="0" font="Liberation Sans,6,-1,5,75,0,0,0,0,0,Bold" text_width="-1" uuid="{7d603595-2e27-4800-8a6e-3475471b23af}" keep_visual_rotation="true" text_from="UserText" Valignment="AlignTop">
+            <text>_</text>
+            <color>#ff00ff</color>
+        </dynamic_text>
+        <line end1="none" end2="none" y1="-30" antialias="false" y2="-32" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-1" length1="1.5" x2="1" length2="1.5"/>
+        <line end1="none" end2="none" y1="-33" antialias="false" y2="-29" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-31" antialias="false" y2="-31" style="line-style:normal;line-weight:thin;filling:none;color:black" x1="-2" length1="1.5" x2="2" length2="1.5"/>
+        <terminal type="Generic" x="0" y="40" name="" uuid="{4cdfc9da-ad48-4d82-8cfd-f046d6c4c1e6}" orientation="s"/>
+        <terminal type="Generic" x="0" y="-40" name="" uuid="{324e213a-40f4-491c-97f7-97be0de05064}" orientation="n"/>
+    </description>
+</definition>

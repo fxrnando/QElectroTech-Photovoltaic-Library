@@ -1,0 +1,23 @@
+<definition type="element" link_type="simple" hotspot_x="10" hotspot_y="24" width="20" height="50" version="0.100.0">
+    <uuid uuid="{5f850c7e-0097-41f9-adfe-c489798d91b0}"/>
+    <names>
+        <name lang="en">Surge Protection Device</name>
+        <name lang="es">Protector de Sobretensiones</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <line end1="none" end2="none" y1="10" antialias="false" y2="20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="-10" antialias="false" y2="-20" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="6" antialias="true" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" length1="1.5" x2="-7" length2="1.5"/>
+        <line end1="none" end2="none" y1="10" antialias="true" y2="6" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="7" length1="1.5" x2="7" length2="1.5"/>
+        <rect ry="0" x="-4" y="-10" antialias="true" style="line-style:normal;line-weight:normal;filling:none;color:black" width="8" height="20" rx="0"/>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="10.5" y="-10.17" z="6" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{81a5ca7c-13d1-48e3-ab3d-9eb19f4a6eda}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <terminal type="Generic" x="0" y="-20" name="" uuid="{b22a7d91-ec99-4515-8383-053a167a1ebd}" orientation="n"/>
+        <terminal type="Generic" x="0" y="20" name="" uuid="{9faa0ecf-4768-4ade-8c20-1a2798c655c7}" orientation="s"/>
+    </description>
+</definition>

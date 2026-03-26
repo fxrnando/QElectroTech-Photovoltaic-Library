@@ -1,0 +1,20 @@
+<definition type="element" link_type="simple" hotspot_x="16" hotspot_y="26" width="40" height="60" version="0.100.0">
+    <uuid uuid="{7c68c14d-70bf-4f6c-93b0-243c6af2b7ba}"/>
+    <names>
+        <name lang="en">Solar Panel</name>
+        <name lang="es">Panel Solar</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="5" y="12.5" z="1" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{0556f9d8-069c-4854-b221-f3a4eca39317}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <rect ry="0" x="-13" y="-20" antialias="false" style="line-style:normal;line-weight:normal;filling:none;color:blue" width="26" height="40" rx="0"/>
+        <polygon closed="false" y1="-20" antialias="false" y2="-10" y3="-20" style="line-style:normal;line-weight:normal;filling:none;color:blue" x1="-13" x2="0" x3="13"/>
+        <terminal type="Generic" x="0" y="25" name="" uuid="{75bbe094-38ca-4c70-a855-6618a08b260f}" orientation="s"/>
+        <terminal type="Generic" x="18" y="0" name="" uuid="{7beb733a-1d74-4edb-ab8f-0ff635e28361}" orientation="e"/>
+    </description>
+</definition>

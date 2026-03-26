@@ -1,0 +1,20 @@
+<definition type="element" link_type="simple" hotspot_x="20" hotspot_y="15" width="40" height="30" version="0.100.0">
+    <uuid uuid="{e31dbeb5-1c86-473b-9eff-99d2979dec89}"/>
+    <names>
+        <name lang="en">Distribution Electric Network</name>
+        <name lang="es">Red de Distribución AC</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="8" y="2.5" z="1" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{135677dd-8192-482b-a5ad-986528bbf41a}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="13" length1="1.5" x2="-7" length2="1.5"/>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="-10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="13" length1="1.5" x2="-7" length2="1.5"/>
+        <line end1="none" end2="none" y1="-10" antialias="false" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:black" x1="-7" length1="1.5" x2="-7" length2="1.5"/>
+        <terminal type="Generic" x="-12" y="0" name="" uuid="{03bffc9b-f70e-4681-aae6-713cc1dbc696}" orientation="w"/>
+    </description>
+</definition>

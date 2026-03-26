@@ -1,0 +1,22 @@
+<definition type="element" link_type="simple" hotspot_x="15" hotspot_y="21" width="30" height="40" version="0.100.0">
+    <uuid uuid="{86470bac-ea1d-4bc9-9ad7-3e2cc3170135}"/>
+    <names>
+        <name lang="en">Ground Rod</name>
+        <name lang="es">Varilla de Tierra</name>
+    </names>
+    <elementInformations/>
+    <informations>Author: The QElectroTech team
+License: see http://qelectrotech.org/wiki/doc/elements_license</informations>
+    <description>
+        <dynamic_text frame="false" Halignment="AlignLeft" x="35" y="12.5" z="1" rotation="0" font="Liberation Sans,9,-1,5,50,0,0,0,0,0,Regular" text_width="-1" uuid="{af87d27b-ccaf-423a-9c06-b3202c824be8}" keep_visual_rotation="false" text_from="ElementInfo" Valignment="AlignTop">
+            <text></text>
+            <info_name>label</info_name>
+        </dynamic_text>
+        <line end1="none" end2="none" y1="0" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGreenLimeGreen" x1="-10" length1="1.5" x2="10" length2="1.5"/>
+        <line end1="none" end2="none" y1="-15" antialias="false" y2="0" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGreenLimeGreen" x1="0" length1="1.5" x2="0" length2="1.5"/>
+        <line end1="none" end2="none" y1="5" antialias="false" y2="5" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGreenLimeGreen" x1="-7" length1="1.5" x2="7" length2="1.5"/>
+        <line end1="none" end2="none" y1="10" antialias="false" y2="10" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGreenLimeGreen" x1="-4" length1="1.5" x2="4" length2="1.5"/>
+        <line end1="none" end2="none" y1="15" antialias="false" y2="15" style="line-style:normal;line-weight:normal;filling:none;color:HTMLGreenLimeGreen" x1="0.5" length1="1.5" x2="-0.5" length2="1.5"/>
+        <terminal type="Generic" x="0" y="-15" name="" uuid="{d4546afd-12bf-433f-b28e-6f8ad99b67ff}" orientation="n"/>
+    </description>
+</definition>
